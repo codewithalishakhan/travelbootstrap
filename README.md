@@ -17,7 +17,7 @@
 3.Then, below I have cards with landmarks.<br>
 4.At the bottom of the side ,I have their contact us when we click on the button the form appear , in this form the user can fill out their name, phone number and add message.
 
-<h1>Output<h1>
+<h1>ScreenShots<h1>
 
 ![1](https://user-images.githubusercontent.com/109518128/180696649-6b9577b8-27d6-4dd6-8f8a-c92fe416d745.PNG)
 
